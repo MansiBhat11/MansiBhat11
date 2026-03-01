@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Data Engineer at Tech Mahindra | 3+ Years UK Experience (BT)<br><br>I design and implement scalable, high-performance data solutions for enterprise environments. During my tenure in the UK working with BT, I contributed to large-scale telecom data transformation initiatives, focusing on pipeline automation, data integration, and system optimization.<br><br>My work centers around building robust ETL workflows, maintaining data quality standards, and enabling analytics-ready datasets for business intelligence teams.<br><br>I thrive in complex environments where data reliability, scalability, and governance are critical.<br><br>🔹 Enterprise Data Pipelines<br>🔹 Cloud & Distributed Systems<br>🔹 Data Transformation & Optimization<br>🔹 Telecom Domain Expertise
 
 
